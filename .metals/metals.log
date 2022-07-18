@@ -1,0 +1,606 @@
+2022.07.18 17:45:36 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Nisaf\Desktop\Scala Tutorial 3\.metals\lsp.trace.json or C:\Users\Nisaf\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.18 17:45:38 INFO  logging to file C:\Users\Nisaf\Desktop\Scala Tutorial 3\.metals\metals.log
+2022.07.18 17:45:38 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\Nisaf\Desktop\Scala Tutorial 3' for client Visual Studio Code 1.69.1.
+2022.07.18 17:45:39 INFO  time: initialize in 1.59s
+2022.07.18 17:45:39 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.18 17:45:39 WARN  Build server is not auto-connectable.
+2022.07.18 17:45:39 WARN  no build tool detected in workspace 'C:\Users\Nisaf\Desktop\Scala Tutorial 3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.18 17:45:42 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:45:45 INFO  no build target found for C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala. Using presentation compiler with project's scala-library version: 3.1.3
+Jul 18, 2022 5:45:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Jul 18, 2022 5:45:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.07.18 17:45:45 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+Jul 18, 2022 5:45:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2022.07.18 17:45:45 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+Jul 18, 2022 5:45:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2022.07.18 17:45:46 INFO  time: code lens generation in 1.58s
+2022.07.18 17:45:46 INFO  time: code lens generation in 1.62s
+2022.07.18 17:45:46 INFO  time: code lens generation in 1.27s
+2022.07.18 17:45:46 INFO  time: code lens generation in 1.53s
+2022.07.18 17:45:46 INFO  time: code lens generation in 1.47s
+2022.07.18 17:45:46 INFO  time: code lens generation in 1.48s
+2022.07.18 17:45:46 INFO  time: code lens generation in 1.52s
+2022.07.18 17:45:46 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:45:51 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:45:53 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:20 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:24 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:29 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:33 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:37 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:39 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:42 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:52 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:54 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:46:58 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:00 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:02 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:04 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:09 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:13 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:25 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:26 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:27 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:30 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:32 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:38 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:42 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:47 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:57 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:57 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:57 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:47:58 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q1_area.scala
+2022.07.18 17:50:04 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:12 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:16 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:17 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:19 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:21 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:23 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:26 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:28 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:30 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:32 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:33 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:35 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:50:38 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:03 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:13 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:15 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:19 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:22 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:27 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:37 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:42 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:44 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:46 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:49 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:52 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:51:56 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:52:20 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:52:45 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:52:52 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:11 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:16 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:19 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:23 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:25 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:26 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:30 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:35 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:37 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:38 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:40 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:43 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:45 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:47 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:48 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:56 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:53:59 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:54:05 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:54:08 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:54:21 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:54:22 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:54:34 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:56:54 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:56:56 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:02 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:04 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:06 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:09 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:17 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:19 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:28 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:29 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:29 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:57:29 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:58:21 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:58:22 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:58:22 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q2_temperature.scala
+2022.07.18 17:58:58 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 17:59:03 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 17:59:06 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 17:59:08 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 17:59:23 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 17:59:25 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 17:59:28 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 17:59:30 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 17:59:32 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:00:01 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:00:40 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:00:44 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:00:51 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:00:59 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:03 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:04 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:06 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:08 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:34 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:37 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:43 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:48 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:49 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:51 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:01:54 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:01 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:05 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:07 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:08 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:14 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:20 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:22 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:24 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:25 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:28 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:35 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:02:40 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:03:03 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:03:04 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:03:04 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:03:04 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:03:05 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:03:15 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:03:15 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:03:16 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:03:16 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:04:11 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:04:13 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:04:28 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:04:32 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:04:35 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:04:37 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:04:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:04:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:04:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q3_volume.scala
+2022.07.18 18:07:01 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:07:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:07:13 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:07:15 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:07:16 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:07:25 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:07:27 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:07:30 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:07:37 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:07:53 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:08:46 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:09:01 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:09:05 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:09:55 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:09:58 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:09:59 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:02 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:04 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:07 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:11 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:15 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:20 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:22 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:23 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:25 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:27 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:30 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:38 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:43 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+Jul 18, 2022 6:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 7 is not a valid line number, allowed [0..6]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+2022.07.18 18:10:46 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+Jul 18, 2022 6:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 7 is not a valid line number, allowed [0..6]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+2022.07.18 18:10:51 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:10:55 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+Jul 18, 2022 6:10:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 7 is not a valid line number, allowed [0..6]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:66)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:65)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:65)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1652)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1651)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+2022.07.18 18:11:38 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:11:39 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:11:45 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:11:49 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:11:50 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:11:54 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:11:57 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:03 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:07 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:09 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:12 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:14 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:20 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:44 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:46 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:12:48 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:14:40 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:14:42 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:14:51 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:14:58 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:15:02 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:15:05 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:15:07 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:15:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:15:15 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:15:16 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:15:27 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:15:35 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:16:29 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:16:32 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:17:04 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:17:06 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:17:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:17:13 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:17:16 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:18:30 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:18:34 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:18:35 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:18:36 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:18:38 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:18:40 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:18:45 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:18:52 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:18:57 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:11 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:17 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:19 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:21 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:23 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:24 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:24 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:24 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:24 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:35 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:39 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:19:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:20:51 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:20:52 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:20:54 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:20:54 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:21:29 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+Jul 18, 2022 6:21:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: head of empty list
+java.util.NoSuchElementException: head of empty list
+	at scala.collection.immutable.Nil$.head(List.scala:662)
+	at scala.collection.immutable.Nil$.head(List.scala:661)
+	at dotty.tools.dotc.core.TypeOps$.intersect$1(TypeOps.scala:212)
+	at dotty.tools.dotc.core.TypeOps$.$anonfun$3(TypeOps.scala:345)
+	at dotty.tools.dotc.core.Types$Type.mapReduceOr(Types.scala:476)
+	at dotty.tools.dotc.core.TypeOps$.approximateOr$1(TypeOps.scala:345)
+	at dotty.tools.dotc.core.TypeOps$.orDominator(TypeOps.scala:359)
+	at dotty.tools.dotc.core.Types$OrType.join(Types.scala:3261)
+	at dotty.tools.dotc.core.Types$OrType.widenUnionWithoutNull(Types.scala:3277)
+	at dotty.tools.dotc.core.Types$Type.widenUnion(Types.scala:1293)
+	at dotty.tools.dotc.core.ConstraintHandling.widenOr$1(ConstraintHandling.scala:530)
+	at dotty.tools.dotc.core.ConstraintHandling.widenInferred(ConstraintHandling.scala:543)
+	at dotty.tools.dotc.core.ConstraintHandling.widenInferred$(ConstraintHandling.scala:27)
+	at dotty.tools.dotc.core.TypeComparer.widenInferred(TypeComparer.scala:30)
+	at dotty.tools.dotc.core.TypeComparer$.widenInferred(TypeComparer.scala:2825)
+	at dotty.tools.dotc.typer.Namer.rhsType$1(Namer.scala:1753)
+	at dotty.tools.dotc.typer.Namer.cookedRhsType$1(Namer.scala:1759)
+	at dotty.tools.dotc.typer.Namer.lhsType$1(Namer.scala:1760)
+	at dotty.tools.dotc.typer.Namer.inferredResultType(Namer.scala:1771)
+	at dotty.tools.dotc.typer.Namer.inferredType$1(Namer.scala:1519)
+	at dotty.tools.dotc.typer.Namer.valOrDefDefSig(Namer.scala:1526)
+	at dotty.tools.dotc.typer.Namer.defDefSig(Namer.scala:1611)
+	at dotty.tools.dotc.typer.Namer$Completer.typeSig(Namer.scala:785)
+	at dotty.tools.dotc.typer.Namer$Completer.completeInCreationContext(Namer.scala:920)
+	at dotty.tools.dotc.typer.Namer$Completer.complete(Namer.scala:808)
+	at dotty.tools.dotc.core.SymDenotations$SymDenotation.completeFrom(SymDenotations.scala:167)
+	at dotty.tools.dotc.core.Denotations$Denotation.completeInfo$1(Denotations.scala:187)
+	at dotty.tools.dotc.core.Denotations$Denotation.info(Denotations.scala:189)
+	at dotty.tools.dotc.core.SymDenotations$SymDenotation.ensureCompleted(SymDenotations.scala:369)
+	at dotty.tools.dotc.typer.Typer.retrieveSym(Typer.scala:2773)
+	at dotty.tools.dotc.typer.Typer.typedNamed$1(Typer.scala:2798)
+	at dotty.tools.dotc.typer.Typer.typedUnadapted(Typer.scala:2894)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2960)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2964)
+	at dotty.tools.dotc.typer.Typer.traverse$1(Typer.scala:2986)
+	at dotty.tools.dotc.typer.Typer.typedStats(Typer.scala:3036)
+	at dotty.tools.dotc.typer.Typer.typedBlockStats(Typer.scala:1067)
+	at dotty.tools.dotc.typer.Typer.typedBlock(Typer.scala:1071)
+	at dotty.tools.dotc.typer.Typer.typedUnnamed$1(Typer.scala:2840)
+	at dotty.tools.dotc.typer.Typer.typedUnadapted(Typer.scala:2895)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2960)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2964)
+	at dotty.tools.dotc.typer.Typer.typedExpr(Typer.scala:3080)
+	at dotty.tools.dotc.typer.Namer.typedAheadExpr$$anonfun$1(Namer.scala:1480)
+	at dotty.tools.dotc.typer.Namer.typedAhead(Namer.scala:1470)
+	at dotty.tools.dotc.typer.Namer.typedAheadExpr(Namer.scala:1480)
+	at dotty.tools.dotc.typer.Namer.typedAheadRhs$1$$anonfun$1(Namer.scala:1733)
+	at dotty.tools.dotc.typer.PrepareInlineable$.dropInlineIfError(PrepareInlineable.scala:248)
+	at dotty.tools.dotc.typer.Namer.typedAheadRhs$1(Namer.scala:1733)
+	at dotty.tools.dotc.typer.Namer.rhsType$1(Namer.scala:1741)
+	at dotty.tools.dotc.typer.Namer.cookedRhsType$1(Namer.scala:1759)
+	at dotty.tools.dotc.typer.Namer.lhsType$1(Namer.scala:1760)
+	at dotty.tools.dotc.typer.Namer.inferredResultType(Namer.scala:1771)
+	at dotty.tools.dotc.typer.Namer.inferredType$1(Namer.scala:1519)
+	at dotty.tools.dotc.typer.Namer.valOrDefDefSig(Namer.scala:1526)
+	at dotty.tools.dotc.typer.Namer.defDefSig(Namer.scala:1611)
+	at dotty.tools.dotc.typer.Namer$Completer.typeSig(Namer.scala:785)
+	at dotty.tools.dotc.typer.Namer$Completer.completeInCreationContext(Namer.scala:920)
+	at dotty.tools.dotc.typer.Namer$Completer.complete(Namer.scala:808)
+	at dotty.tools.dotc.core.SymDenotations$SymDenotation.completeFrom(SymDenotations.scala:167)
+	at dotty.tools.dotc.core.Denotations$Denotation.completeInfo$1(Denotations.scala:187)
+	at dotty.tools.dotc.core.Denotations$Denotation.info(Denotations.scala:189)
+	at dotty.tools.dotc.core.SymDenotations$SymDenotation.ensureCompleted(SymDenotations.scala:369)
+	at dotty.tools.dotc.typer.Typer.retrieveSym(Typer.scala:2773)
+	at dotty.tools.dotc.typer.Typer.typedNamed$1(Typer.scala:2798)
+	at dotty.tools.dotc.typer.Typer.typedUnadapted(Typer.scala:2894)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2960)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2964)
+	at dotty.tools.dotc.typer.Typer.traverse$1(Typer.scala:2986)
+	at dotty.tools.dotc.typer.Typer.typedStats(Typer.scala:3036)
+	at dotty.tools.dotc.typer.Typer.typedClassDef(Typer.scala:2476)
+	at dotty.tools.dotc.typer.Typer.typedTypeOrClassDef$1(Typer.scala:2820)
+	at dotty.tools.dotc.typer.Typer.typedNamed$1(Typer.scala:2824)
+	at dotty.tools.dotc.typer.Typer.typedUnadapted(Typer.scala:2894)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2960)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2964)
+	at dotty.tools.dotc.typer.Typer.traverse$1(Typer.scala:2986)
+	at dotty.tools.dotc.typer.Typer.typedStats(Typer.scala:3036)
+	at dotty.tools.dotc.typer.Typer.typedPackageDef(Typer.scala:2603)
+	at dotty.tools.dotc.typer.Typer.typedUnnamed$1(Typer.scala:2865)
+	at dotty.tools.dotc.typer.Typer.typedUnadapted(Typer.scala:2895)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2960)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2964)
+	at dotty.tools.dotc.typer.Typer.typedExpr(Typer.scala:3080)
+	at dotty.tools.dotc.typer.TyperPhase.typeCheck$$anonfun$1(TyperPhase.scala:43)
+	at dotty.tools.dotc.typer.TyperPhase.typeCheck$$anonfun$adapted$1(TyperPhase.scala:50)
+	at scala.Function0.apply$mcV$sp(Function0.scala:39)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:414)
+	at dotty.tools.dotc.typer.TyperPhase.typeCheck(TyperPhase.scala:50)
+	at dotty.tools.dotc.typer.TyperPhase.runOn$$anonfun$3(TyperPhase.scala:84)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.typer.TyperPhase.runOn(TyperPhase.scala:84)
+	at dotty.tools.dotc.Run.runPhases$1$$anonfun$1(Run.scala:225)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$1(Run.scala:236)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:244)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$adapted$1(Run.scala:253)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:253)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:186)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:165)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:41)
+
+2022.07.18 18:21:32 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:21:39 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:21:48 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:21:49 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:21:54 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:21:57 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:21:57 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:24:26 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:27:46 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:28:16 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:28:18 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:28:21 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:28:24 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:28:26 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:28:26 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:28:27 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:28:27 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:29:08 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:29:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:29:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:29:38 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:29:39 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:29:40 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:29:40 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q4_cost.scala
+2022.07.18 18:30:28 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:30:33 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:30:38 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:30:40 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:30:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:30:45 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:30:47 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:30:52 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:30:54 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:31:46 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:31:49 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:31:52 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:32:41 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:32:46 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:32:49 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:32:56 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:24 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:27 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:28 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:31 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:37 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:44 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:46 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:48 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:51 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:53 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:56 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:33:58 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:01 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:05 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:07 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:08 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:09 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:12 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:18 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:31 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:38 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:43 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:44 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:48 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:51 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:53 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:57 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:34:59 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:35:00 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:03 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:05 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:08 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:11 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:14 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:20 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:23 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:28 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:29 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:36 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:37:58 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:00 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:10 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:12 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:15 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:18 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:18 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:18 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:19 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:19 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:40 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:42 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:49 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:49 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
+2022.07.18 18:38:49 WARN  no build target for: C:\Users\Nisaf\Desktop\Scala Tutorial 3\Q5_running_time.scala
